@@ -5,6 +5,9 @@
 # Build directory
 public/
 
+# query directory
+templates/
+
 # Gatsby cache
 .cache/
 
