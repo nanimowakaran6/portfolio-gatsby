@@ -1,23 +1,13 @@
 /* eslint-disable max-len */
 
+// 基本的に使用するカラーの設定
 export const colors = {
-  brand: '#663399',
-  lilac: '#9d7cbf',
-  accent: '#ffb238',
-  success: '#37b635',
-  warning: '#ec1818',
-  ui: {
-    bright: '#e0d6eb',
-    light: '#f5f3f7',
-    whisper: '#fbfafc'
+  purple: '#8785a2',
+  pink: {
+    dark: 'ffc7c7',
+    pale: 'ffe2e2'
   },
-  code: '#fcf6f0',
-  gray: {
-    dark: 'hsla(270, 17.119554496%, 0%, 0.92)',
-    copy: 'hsla(270, 15.797828016000002%, 0%, 0.88)',
-    calm: 'rgba(0, 0, 0, 0.54)'
-  },
-  white: '#fff',
+  white: '#f6f6f6',
   black: '#000'
 }
 
